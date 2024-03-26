@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "demo_oke",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Buổi 18/Pop mảng.sol": "Pop"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Buổi 18/Pop mảng.sol": {
+			"keccak256": "0xacdcf42e6db270929a30b99ae80463fa81ede644c15de07d76993a5862b85435",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3673338c4462debe45a922a3aa69d2a6525b99b424ba70793c6207f62fa9f434",
+				"dweb:/ipfs/QmV3BJcJH8KGFaYNLrWiUwGUQzgrULqHv4xXtAftzsFRvr"
+			]
+		}
+	},
+	"version": 1
+}

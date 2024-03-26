@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "adding_values",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "student_result",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Buổi 18/Mapping/New.sol": "mapping_example"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Buổi 18/Mapping/New.sol": {
+			"keccak256": "0xbf60684163536ba3438c4476c72c815701c05695802321d676ad68e11ac5891f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7dce8547bc8511d0499918480c64c2722a097573e11b929dc46c717c9d4afdb5",
+				"dweb:/ipfs/QmVvfKvgKg6XuMat9rs57sYncfNiJHdXTFLuakWay5yDjn"
+			]
+		}
+	},
+	"version": 1
+}

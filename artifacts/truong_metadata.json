@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "demo_push",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Buổi 18/Push mảng.sol": "truong"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Buổi 18/Push mảng.sol": {
+			"keccak256": "0x5b91cc4e6158adc37ea24d241d50f5ed1b91e66180d255657e999e867d40d8eb",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://09ae0d8d378a37f8233dec1847ee1d4d3f0d774aed2e226ec41e8b307a078d23",
+				"dweb:/ipfs/QmXMsAMeak6QxWFK6GVcpahXyMCDZKxAkw1xjdNSibjtWj"
+			]
+		}
+	},
+	"version": 1
+}

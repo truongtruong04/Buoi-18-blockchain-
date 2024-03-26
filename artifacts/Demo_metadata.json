@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "truong_dem",
+				"outputs": [
+					{
+						"internalType": "uint256[2]",
+						"name": "",
+						"type": "uint256[2]"
+					}
+				],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "truong_do",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Buổi 18/Do dai mang.sol": "Demo"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Buổi 18/Do dai mang.sol": {
+			"keccak256": "0x4f9486fe00d7958aebc9b84cc7ec52bbef3ac64576b1cbb0353e7a681d627ea3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://789db65f5d70b68bf96e0bd381902ec908df2de099013cfab95611154771a0b9",
+				"dweb:/ipfs/QmUGXktPy97JoQ3gEe6e38BWP3R6jKs8wqndjmRUJoFG48"
+			]
+		}
+	},
+	"version": 1
+}

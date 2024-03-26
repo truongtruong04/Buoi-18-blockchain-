@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "array_example",
+				"outputs": [
+					{
+						"internalType": "int256[5]",
+						"name": "",
+						"type": "int256[5]"
+					},
+					{
+						"internalType": "uint256[6]",
+						"name": "",
+						"type": "uint256[6]"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Buổi 18/Mang tinh.sol": "Types"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Buổi 18/Mang tinh.sol": {
+			"keccak256": "0xc9d955bd85748d23a8701fc40ccaad2559abb0fc31248c807f3e06f6fd0c7111",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://507cb80f60229e8d2317e00f360bcece00025167f24dac430ada83bb87686a86",
+				"dweb:/ipfs/QmTgnPzpsTFhDWNYh1Bt4GyTY5ZHcSg91qmeD4HCykheSe"
+			]
+		}
+	},
+	"version": 1
+}

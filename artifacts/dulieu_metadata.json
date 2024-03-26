@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "saovang_demo",
+				"outputs": [
+					{
+						"internalType": "uint256[3]",
+						"name": "",
+						"type": "uint256[3]"
+					}
+				],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "saovang_limit",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Buổi 18/Mang du lieu.sol": "dulieu"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Buổi 18/Mang du lieu.sol": {
+			"keccak256": "0xe5c4ebfc1d6d6afc17bc0ee771d1307afddad0d1a459c549a13ed66dc39ba8e8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://92feaa1cfb14f00f723f58be12e16acf6959440fe8a23a3fc28472773b8dd2cb",
+				"dweb:/ipfs/QmYFfYXYP1tSNV36yPT2jCun4ntVQpzugVhd6gTt2zpRyF"
+			]
+		}
+	},
+	"version": 1
+}
